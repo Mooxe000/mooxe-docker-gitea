@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*_book
+
+.tmp
+trash
+
+/**/dist
+/**/build
+
+gitea_data/*
+!gitea_data/.keep
